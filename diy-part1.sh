@@ -17,5 +17,6 @@
 
 echo 'src-git passwall_pk https://github.com/xiaorouji/openwrt-passwall.git' >>feeds.conf.default
 echo 'src-git passwall_app https://github.com/xiaorouji/openwrt-passwall.git;luci' >>feeds.conf.default
+echo 'src-git poweroff https://github.com/akihara-sam/luci-app-poweroff.git' >>feeds.conf.default
 echo 'src-git sam_luci https://github.com/akihara-sam/sam-luci.git' >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld.git' >>feeds.conf.default
